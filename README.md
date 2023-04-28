@@ -37,10 +37,10 @@ Team Lead QA testing on iOS and Android
 
 ## Education
 
-_Web Development_
+**Web Development**  
 [Nashville Software School](https://nashvillesoftwareschool.com/) - Nashville, TN  
 Full-stack development with JavaScript, AngularJS, NodeJS, MySQL
 
-_B.Sc. Business Administration_  
-Tennessee Tech University - Cookeville, TN  
+**B.Sc. Business Administration**  
+[Tennessee Tech University](https://www.tntech.edu/) - Cookeville, TN  
 Honors Scholarship, Raines Foundation Scholarship
