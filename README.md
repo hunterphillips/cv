@@ -6,41 +6,41 @@
 
 ## Experience
 
-**Senior Developer** @ [IntegrityPro Consulting](https://integritypro.com/) _(November 2022 - Present)_
+**Senior Developer** @ [IntegrityPro Consulting](https://integritypro.com/) _(November 2022 - Present)_  
 Implemented critical design and architecture to digitally transform scholarship programs for the USDA
 
 - Published application used to automate the export of data to external reporting software via web services
 - Designed curriculum for IPC’s developer intern program
 
-**Lead Developer** @ [GovCIO](https://govcio.com/) _(May 2021 - October 2022)_
+**Lead Developer** @ [GovCIO](https://govcio.com/) _(May 2021 - October 2022)_  
 Established new development standards leading the program's first team to implement a React microservice architecture
 
 - Implemented core design and a location-based search for an appointment scheduler improving operating efficiency by over 2x
 - Primary front-end developer of an arrest reporting tool awarded the DHS Secretary's Award for Innovation
 
-**Senior Technical Consultant** @ [Finite Partners](https://finite-partners.com/) _(July 2019 - May 2021)_
+**Senior Technical Consultant** @ [Finite Partners](https://finite-partners.com/) _(July 2019 - May 2021)_  
 Software consulting & development for Fortune 500 firms & USDOD
 
 - Promoted to lead developer on our largest defense contract, enabling system engineers to plan, configure, and provision satellite communication equipment supporting military operations
 - Earned company’s highest utilization rate for 7 consecutive quarters
 
-**Solutions Engineer** @ [Brookdale Senior Living](https://www.brookdale.com/en.html) _(July 2018 - July 2019)_
+**Solutions Engineer** @ [Brookdale Senior Living](https://www.brookdale.com/en.html) _(July 2018 - July 2019)_  
 Ground-up redesign of an AngularJS web portal leading to over 2000 additional self-service requests per month
 
 - Presented new portal and led technical demo at a company-hosted meetup for local developer community
 
-**Software Developer (Contract)** @ [Neurotargeting](https://www.linkedin.com/company/neurotargeting) _(May 2018 - June 2018)_
+**Software Developer (Contract)** @ [Neurotargeting](https://www.linkedin.com/company/neurotargeting) _(May 2018 - June 2018)_  
 Created an interface for physicians to monitor neural implant configurations, working in an AWS environment with PHP, MySQL
 
-**Software Analyst** @ [Digital Dream Forge QA](https://www.digitaldreamforge.com/) _(May 2017 - November 2017)_
+**Software Analyst** @ [Digital Dream Forge QA](https://www.digitaldreamforge.com/) _(May 2017 - November 2017)_  
 Team Lead QA testing on iOS and Android
 
 ## Education
 
 _Web Development_
-[Nashville Software School](https://nashvillesoftwareschool.com/) - Nashville, TN
+[Nashville Software School](https://nashvillesoftwareschool.com/) - Nashville, TN  
 Full-stack development with JavaScript, AngularJS, NodeJS, MySQL
 
-_B.Sc. Business Administration_
-Tennessee Tech University - Cookeville, TN
+_B.Sc. Business Administration_  
+Tennessee Tech University - Cookeville, TN  
 Honors Scholarship, Raines Foundation Scholarship
