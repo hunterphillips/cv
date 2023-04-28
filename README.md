@@ -4,7 +4,7 @@
 
 [Email](mailto:hkphillips42@gmail.com) / [LinkedIn](https://www.linkedin.com/in/hunter-phillips/) / [GitHub](https://github.com/hunterphillips)
 
-## Experience
+## 💼 Experience
 
 **Senior Developer** @ [IntegrityPro Consulting](https://integritypro.com/) _(November 2022 - Present)_  
 Implemented critical design and architecture to digitally transform scholarship programs for the USDA
