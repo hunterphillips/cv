@@ -41,7 +41,10 @@ Team Lead QA testing on iOS and Android
 Hacker News article search, single-page React application hosted on [Render](https://render.com/)
 
 [Final Countdown](https://github.com/hunterphillips/countdown)  
-Death clock, productivity desktop application built using AngularJS and Electron  
+Death clock, productivity desktop application built with AngularJS and Electron  
+
+[StudyUp](https://github.com/hunterphillips/StudyUp)  
+Concept educational trivia app built using Node.js, Express, Postgres, and Socket.IO  
 
 ## 🎓 Education
 
