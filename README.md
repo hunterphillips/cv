@@ -33,9 +33,17 @@ Ground-up redesign of an AngularJS web portal leading to over 2000 additional se
 Created an interface for physicians to monitor neural implant configurations, working in an AWS environment with PHP, MySQL
 
 **Software Analyst** @ [Digital Dream Forge QA](https://www.digitaldreamforge.com/) _(May 2017 - November 2017)_  
-Team Lead QA testing on iOS and Android
+Team Lead QA testing on iOS and Android  
 
-## Education
+## 🛠️ Projects
+
+[Hacker News Search](https://hacker-news-search.onrender.com/)  
+Hacker News article search, single-page React application hosted on [Render](https://render.com/)
+
+[Final Countdown](https://github.com/hunterphillips/countdown)  
+Death clock, productivity desktop application built using AngularJS and Electron  
+
+## 🎓 Education
 
 **Web Development**  
 [Nashville Software School](https://nashvillesoftwareschool.com/) - Nashville, TN  
