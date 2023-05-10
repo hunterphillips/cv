@@ -7,16 +7,16 @@
 ## 💼 Experience
 
 **Senior Developer** @ [IntegrityPro Consulting](https://integritypro.com/) _(November 2022 - Present)_  
-Implemented critical design and architecture to digitally transform scholarship programs for the USDA
+Implemented critical design and architecture to digitally transform scholarship programs for the USDA  
 
-- Published application used to automate the export of data to external reporting software via web services
-- Designed curriculum for IPC’s developer intern program
+- Developed an internal tool used to automate the export of ServiceNow data to external reporting software via web services
+- Designed curriculum for IPC’s developer intern program  
 
 **Lead Developer** @ [GovCIO](https://govcio.com/) _(May 2021 - October 2022)_  
-Established new development standards leading the program's first team to implement a React microservice architecture
+Established new development standards leading the program's first team to employ a React microservice architecture  
 
 - Primary front-end developer of an arrest reporting tool awarded the DHS Secretary's Award for Innovation
-- Implemented core design and a location-based search for an appointment scheduler eliminating 8+ hour queue lines for thousands of noncitizens a month
+- Created a location-based search for an appointment scheduler eliminating 8+ hour queue lines for thousands of noncitizens a month  
 
 **Senior Technical Consultant** @ [Finite Partners](https://finite-partners.com/) _(July 2019 - May 2021)_  
 Software consulting & development for Fortune 500 firms & USDOD
@@ -30,7 +30,7 @@ Ground-up redesign of an AngularJS web portal leading to over 2000 additional se
 - Presented new portal and led technical demo at a company-hosted meetup for local developer community
 
 **Software Developer (Contract)** @ [Neurotargeting](https://www.linkedin.com/company/neurotargeting) _(May 2018 - June 2018)_  
-Created an interface for physicians to monitor neural implant configurations, working in an AWS environment with PHP, MySQL
+Built an interface for physicians to monitor neural implant configurations, working in an AWS environment with PHP, MySQL
 
 **Software Analyst** @ [Digital Dream Forge QA](https://www.digitaldreamforge.com/) _(May 2017 - November 2017)_  
 Team Lead QA testing on iOS and Android  
