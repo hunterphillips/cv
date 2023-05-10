@@ -43,6 +43,9 @@ Hacker News article search, single-page React application hosted on [Render](htt
 [Final Countdown](https://github.com/hunterphillips/countdown)  
 Death clock, productivity desktop application built with AngularJS and Electron  
 
+[Font Tester](https://chrome.google.com/webstore/detail/font-tester/imccahjhfnnifmcmfelbcijnilebgggg)
+Chrome extension for developers/designers to quickly preview Google fonts on a web page  
+
 [StudyUp](https://github.com/hunterphillips/StudyUp)  
 Concept educational trivia app built using Node.js, Express, Postgres, and Socket.IO  
 
