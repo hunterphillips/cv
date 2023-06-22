@@ -7,7 +7,7 @@
 ## 💼 Experience
 
 **Senior Developer** @ [IntegrityPro Consulting](https://integritypro.com/) _(November 2022 - Present)_  
-Implemented critical design and architecture to digitally transform scholarship programs for the USDA  
+Currently supporting a scoped application to digitally transform scholarship programs for the USDA  
 
 - Designed curriculum for IPC’s developer intern program  
 
