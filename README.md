@@ -32,7 +32,7 @@ Ground-up redesign of an AngularJS web portal leading to over 2000 additional se
 **Software Developer (Contract)** @ [Neurotargeting](https://www.linkedin.com/company/neurotargeting) _(May 2018 - June 2018)_  
 Built an interface for physicians to monitor neural implant configurations, working in an AWS environment with PHP, MySQL
 
-**Software Analyst** @ [Digital Dream Forge QA](https://www.digitaldreamforge.com/) _(May 2017 - November 2017)_  
+**Lead QA Analyst** @ [Digital Dream Forge QA](https://www.digitaldreamforge.com/) _(May 2017 - November 2017)_  
 Team Lead QA testing on iOS and Android  
 
 ## 🛠️ Projects
