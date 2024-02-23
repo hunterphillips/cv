@@ -7,21 +7,23 @@
 ## 💼 Experience
 
 **Senior Developer** @ [IntegrityPro Consulting](https://integritypro.com/) _(November 2022 - Present)_  
-Currently supporting a scoped application to digitally transform scholarship programs for the USDA  
+Currently leading initiatives to digitally transform federal scholarship programs at the USDA and modernize IT services at the Federal Reserve
 
-- Designed curriculum for IPC’s developer intern program  
+- Redesigned an application intake system using React and a guided form UX to increase student submissions 270% year-over-year
+- Lead front-end developer of a supply chain management portal used for a $3 billion federal contract bid, the company’s largest to date
+- Ran educational workshops for intern program covering content on API design, product integrations, and optimization techniques
 
 **Lead Developer** @ [GovCIO](https://govcio.com/) _(May 2021 - October 2022)_  
 Established new development standards leading the program's first team to employ a React microservice architecture  
 
 - Primary front-end developer of an arrest reporting tool awarded the DHS Secretary's Award for Innovation
 - Created a location-based search for an appointment scheduler eliminating 8+ hour queue lines for thousands of noncitizens a month
-- Lead architect of internal automation tool used to export ServiceNow data to external reporting software via web services
+- Lead architect of ETL integration used to export ServiceNow data to DataBricks via web services
 
 **Senior Technical Consultant** @ [Finite Partners](https://finite-partners.com/) _(July 2019 - May 2021)_  
 Software consulting & development for Fortune 500 firms & USDOD
 
-- Promoted to lead developer on our largest defense contract, enabling system engineers to plan, configure, and provision satellite communication equipment supporting military operations
+- Promoted to lead our largest defense contract, enabling systems engineers to plan, configure, and provision satellite communications equipment
 - Earned company’s highest utilization rate for 7 consecutive quarters
 
 **Solutions Engineer** @ [Brookdale Senior Living](https://www.brookdale.com/en.html) _(July 2018 - July 2019)_  
@@ -37,24 +39,19 @@ Team Lead QA testing on iOS and Android
 
 ## 🛠️ Projects
 
-[Hacker News Search](https://hacker-news-search.onrender.com/)  
-Hacker News article search, single-page React application hosted on [Render](https://render.com/)
+[Font Tester](https://chrome.google.com/webstore/detail/font-tester/imccahjhfnnifmcmfelbcijnilebgggg)  
+Chrome extension for developers/designers to quickly preview Google fonts on a web page  
 
 [Final Countdown](https://github.com/hunterphillips/countdown)  
 Death clock, productivity desktop application built with AngularJS and Electron  
 
-[Font Tester](https://chrome.google.com/webstore/detail/font-tester/imccahjhfnnifmcmfelbcijnilebgggg)  
-Chrome extension for developers/designers to quickly preview Google fonts on a web page  
-
-[StudyUp](https://github.com/hunterphillips/StudyUp)  
-Concept educational trivia app built using Node.js, Express, Postgres, and Socket.IO  
+[Hacker News Search](https://hacker-news-search.onrender.com/)  
+Hacker News article search, single-page React application hosted on [Render](https://render.com/)
 
 ## 🎓 Education
 
-**Web Development**  
-[Nashville Software School](https://nashvillesoftwareschool.com/) - Nashville, TN  
+**Web Development** [Nashville Software School](https://nashvillesoftwareschool.com/)
 Full-stack development with JavaScript, AngularJS, NodeJS, MySQL
 
-**B.Sc. Business Administration**  
-[Tennessee Tech University](https://www.tntech.edu/) - Cookeville, TN  
+**B.Sc. Business Administration** - [Tennessee Tech University](https://www.tntech.edu/)
 Honors Scholarship, Raines Foundation Scholarship
