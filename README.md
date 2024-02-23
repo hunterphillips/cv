@@ -18,7 +18,7 @@ Established new development standards leading the program's first team to employ
 
 - Primary front-end developer of an arrest reporting tool awarded the DHS Secretary's Award for Innovation
 - Created a location-based search for an appointment scheduler eliminating 8+ hour queue lines for thousands of noncitizens a month
-- Lead architect of ETL integration used to export ServiceNow data to DataBricks via web services
+- Launched an ETL integration tool tasked with exporting data for millions of records in ServiceNow to a Databricks instance
 
 **Senior Technical Consultant** @ [Finite Partners](https://finite-partners.com/) _(July 2019 - May 2021)_  
 Software consulting & development for Fortune 500 firms & USDOD
