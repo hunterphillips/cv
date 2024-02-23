@@ -29,7 +29,7 @@ Software consulting & development for Fortune 500 firms & USDOD
 **Solutions Engineer** @ [Brookdale Senior Living](https://www.brookdale.com/en.html) _(July 2018 - July 2019)_  
 Ground-up redesign of an AngularJS web portal leading to over 2000 additional self-service requests per month
 
-- Presented new portal and led technical demo at a company-hosted meetup for local developer community
+- Led technical demonstration of the new portal at a company-hosted meetup for local developer community
 
 **Software Developer (Contract)** @ [Neurotargeting](https://www.linkedin.com/company/neurotargeting) _(May 2018 - June 2018)_  
 Built an interface for physicians to monitor neural implant configurations, working in an AWS environment with PHP, MySQL
@@ -50,8 +50,8 @@ Hacker News article search, single-page React application hosted on [Render](htt
 
 ## 🎓 Education
 
-**Web Development** - [Nashville Software School](https://nashvillesoftwareschool.com/)
+**Web Development** - [Nashville Software School](https://nashvillesoftwareschool.com/)  
 Full-stack development with JavaScript, AngularJS, NodeJS, MySQL
 
-**B.Sc. Business Administration** - [Tennessee Tech University](https://www.tntech.edu/)
+**B.Sc. Business Administration** - [Tennessee Tech University](https://www.tntech.edu/)  
 Honors Scholarship, Raines Foundation Scholarship
