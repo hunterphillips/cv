@@ -50,7 +50,7 @@ Hacker News article search, single-page React application hosted on [Render](htt
 
 ## 🎓 Education
 
-**Web Development** [Nashville Software School](https://nashvillesoftwareschool.com/)
+**Web Development** - [Nashville Software School](https://nashvillesoftwareschool.com/)
 Full-stack development with JavaScript, AngularJS, NodeJS, MySQL
 
 **B.Sc. Business Administration** - [Tennessee Tech University](https://www.tntech.edu/)
