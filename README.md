@@ -6,7 +6,7 @@
 
 ## 💼 Experience
 
-**Senior Developer** @ [IntegrityPro Consulting](https://integritypro.com/) _(November 2022 - Present)_  
+**Senior Developer | Architect** @ [IntegrityPro Consulting](https://integritypro.com/) _(November 2022 - Present)_  
 Currently leading initiatives to digitally transform federal scholarship programs at the USDA and modernize IT services at the Federal Reserve
 
 - Redesigned an application intake system using React and a guided form UX to increase student submissions 270% year-over-year
