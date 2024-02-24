@@ -43,7 +43,7 @@ Team Lead QA testing on iOS and Android
 Chrome extension for developers/designers to quickly preview Google fonts on a web page  
 
 [Final Countdown](https://github.com/hunterphillips/countdown)  
-Death clock, productivity desktop application built with AngularJS and Electron  
+Death clock, productivity desktop application built with Electron and AngularJS  
 
 [Hacker News Search](https://hacker-news-search.onrender.com/)  
 Hacker News article search, single-page React application hosted on [Render](https://render.com/)
