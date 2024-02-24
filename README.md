@@ -39,19 +39,22 @@ Team Lead QA testing on iOS and Android
 
 ## 🛠️ Projects
 
-[Font Tester](https://chrome.google.com/webstore/detail/font-tester/imccahjhfnnifmcmfelbcijnilebgggg) - Chrome extension for developers/designers to quickly preview Google fonts on a web page
+[Font Tester](https://chrome.google.com/webstore/detail/font-tester/imccahjhfnnifmcmfelbcijnilebgggg)   
+Chrome extension for developers/designers to quickly preview Google fonts on a web page
 <br/><br/>
 ![chrome extension screenshot](https://raw.githubusercontent.com/hunterphillips/cv/gh-page/assets/fontTester.jpeg)
 
 ---
   
-[Final Countdown](https://github.com/hunterphillips/countdown) - Death clock, productivity desktop application built with Electron and AngularJS
+[Final Countdown](https://github.com/hunterphillips/countdown)   
+Death clock, productivity desktop application built with Electron and AngularJS
 <br/><br/>
 ![clock example](https://raw.githubusercontent.com/hunterphillips/cv/gh-page/assets/clock-screenshot.jpeg)
 
 ---
   
-[Hacker News Search](https://hacker-news-search.onrender.com/) - Hacker News article search, single-page React application hosted on [Render](https://render.com/)  
+[Hacker News Search](https://hacker-news-search.onrender.com/)   
+Hacker News article search, single-page React application hosted on [Render](https://render.com/)  
 ![search site screenshot](https://raw.githubusercontent.com/hunterphillips/cv/gh-page/assets/hnSearchPreview.png)
 
 ## 🎓 Education
