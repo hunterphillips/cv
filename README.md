@@ -16,9 +16,9 @@ Currently leading initiatives to digitally transform federal scholarship program
 **Lead Developer** @ [GovCIO](https://govcio.com/) _(May 2021 - October 2022)_  
 Established new development standards leading the program's first team to employ a React microservice architecture  
 
-- Primary front-end developer of an arrest reporting tool awarded the DHS Secretary's Award for Innovation
-- Created a location-based search for an appointment scheduler eliminating 8+ hour queue lines for thousands of noncitizens a month
-- Launched an ETL integration tool tasked with exporting data for millions of records in ServiceNow to a Databricks instance
+- Primary React developer of an arrest reporting tool awarded the DHS Secretary's Award for Innovation
+- Created a location-based search and calendar interface for an appointment scheduler eliminating 8+ hour queue lines for thousands of noncitizens a month
+- Launched an ETL integration to synchronize millions of records in ServiceNow to external reporting software, supporting both real-time and batched updates
 
 **Senior Technical Consultant** @ [Finite Partners](https://finite-partners.com/) _(July 2019 - May 2021)_  
 Software consulting & development for Fortune 500 firms & USDOD
@@ -51,7 +51,7 @@ Hacker News article search, single-page React application hosted on [Render](htt
 ## 🎓 Education
 
 **Web Development** - [Nashville Software School](https://nashvillesoftwareschool.com/)  
-Full-stack development with JavaScript, AngularJS, NodeJS, MySQL
+Full-stack development with JavaScript, AngularJS, NodeJS, PostgreSQL
 
 **B.Sc. Business Administration** - [Tennessee Tech University](https://www.tntech.edu/)  
 Honors Scholarship, Raines Foundation Scholarship
