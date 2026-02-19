@@ -8,8 +8,6 @@
 
 Solutions Architect with a track record of leading platform modernization and driving user-centric automation across federal and commercial sectors. Skilled across low-code, modern web, and AI frameworks, with a passion for scalable design and measurable business impact. Active security clearance.
 
-When I'm not working, I'm usually exercising or finding an excuse to get outside 🏋️ 🏀 🎾 🏃 🥾 🧘‍♂️. I also enjoy conversations and mindfulness practices on [Waking Up](https://www.wakingup.com/).
-
 ---
 
 ## 💼 Experience
