@@ -1,12 +1,8 @@
 # Hunter Phillips
 
-> Technical Architect
+> Solutions Architect with a track record of leading platform modernization and driving user-centric automation across federal and commercial sectors. Skilled across low-code, modern web, and AI frameworks, with a passion for scalable design and measurable business impact. Active security clearance.
 
 [Email](mailto:hkphillips42@gmail.com) / [LinkedIn](https://www.linkedin.com/in/hunter-phillips/) / [GitHub](https://github.com/hunterphillips)
-
----
-
-Solutions Architect with a track record of leading platform modernization and driving user-centric automation across federal and commercial sectors. Skilled across low-code, modern web, and AI frameworks, with a passion for scalable design and measurable business impact. Active security clearance.
 
 ---
 
